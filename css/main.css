@@ -1,0 +1,21 @@
+body{
+    background-image: url("../rasmlar/color_body_bg_image.jpg");
+}
+.a1{
+    height: 60px;
+}
+.br{
+   border-color: white;
+}
+.b1{
+    height: 20px;
+}
+.s1{
+   width: 200px;
+}
+.sb{
+   border-color: white;
+}
+.m{
+    margin-left: 60px;
+}
